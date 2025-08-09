@@ -41,8 +41,8 @@ Make sure you have the following installed :
 ### 💻 Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/numpy-learning-series.git
-   cd numpy-learning-series
+   git clone https://github.com/smritisharma2924/NumPy-notes.git
+   cd NumPy-notes
    ```
 2. **Install dependencies**
    ```bash
@@ -81,3 +81,7 @@ If you have improvements, examples, or additional NumPy topics to add : <br>
 ## 🌟 Acknowledgements
    - Inspired by [NumPy Documentation](https://numpy.org/doc/)
    - Special thanks to this helpful video: [NumPy Crash Course](https://youtu.be/x7ULDYs4X84?si=BkbFlSy4YlUGTchm)
+
+---
+
+Happy Coding!🚀
