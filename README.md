@@ -22,9 +22,9 @@ They’re not just for me — they’re also for anyone who wants to **revise th
 
 ## 📂 Project Structure
 📁 numpy-learning-series
-├── phase-1.ipynb       # NumPy Array and Basics
-├── requirements.txt    # Dependencies for running the notebooks
-└── README.md           # Project documentation
+├── phase-1.ipynb       # NumPy Array and Basics <br>
+├── requirements.txt    # Dependencies for running the notebooks <br>
+└── README.md           # Project documentation <br>
 
 ---
 
@@ -65,15 +65,15 @@ Make sure you have the following installed :
 ## 🤝 Contributing
 Contributions are welcome! <br>
 If you have improvements, examples, or additional NumPy topics to add : <br>
-   1.	Fork the repository.
+   1.	Fork the repository. <br>
    2.	Create a new branch :
     ```bash
     git checkout -b feature-name
-    ```
+    ``` <br>
     3. Commit your changes :
     ```bash
     git commit -m "Added new NumPy example"
-    ```
+    ``` <br>
     4. Push to the branch and submit a pull request.
 
 ---
